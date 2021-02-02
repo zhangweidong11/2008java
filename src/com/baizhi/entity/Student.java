@@ -7,4 +7,6 @@ package com.baizhi.entity;
  * @Description TOOO
  */
 public class Student {
+    private int id;
+    private String name;
 }

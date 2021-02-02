@@ -1,5 +1,7 @@
 package com.baizhi.entity;
 
+import java.util.Date;
+
 /**
  * @ClassName Student
  * @Author Administrator
@@ -9,4 +11,5 @@ package com.baizhi.entity;
 public class Student {
     private int id;
     private String name;// 你好吗
+    private Date time;
 }

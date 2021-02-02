@@ -8,5 +8,5 @@ package com.baizhi.entity;
  */
 public class Student {
     private int id;
-    private String name;
+    private String name;// 你好吗
 }
